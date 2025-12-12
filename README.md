@@ -20,6 +20,6 @@ Great beginner front-end exercise
 
 🛠️ Technologies Used
 
-HTML – Structure
-CSS – Styling and transition effects
-JavaScript – Randomization and DOM updates
+1. HTML – Structure
+2. CSS – Styling and transition effects
+3. JavaScript – Randomization and DOM updates
